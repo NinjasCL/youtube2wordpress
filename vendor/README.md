@@ -1,4 +1,4 @@
 # Vendor Code
 
-- InputBox.exe by [https://www.robvanderwoude.com/dialogboxes.php](Rob Van der Woude)
-- Node.js by [https://nodejs.org/en/](Node.js)
+- InputBox.exe by [Rob Van der Woude](https://www.robvanderwoude.com/dialogboxes.php).
+- Node.js by [Node.js](https://nodejs.org/en/).

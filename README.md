@@ -14,7 +14,7 @@ You can use any search term (separated by spaces). The first
 result will be the video uploaded. The best result is achieved
 by using the full url of the video (althought sometimes this can bring the wrong video).
 
-Use `+` signs to separate words with spaces. 
+Use `+` signs to separate words with spaces.
 
 The same as _Youtube Search_ bar, try your query there first. The first result will be used.
 
@@ -27,9 +27,7 @@ node index.js "youtube-url1 youtube-url2 youtube-url-n"
 A bundled _Windows_ command prompt and _node_ executable was included.
 Just exec `yt2wp.cmd`.
 
-![screenshot.png](Windows)
-
-https://www.virustotal.com/gui/file/3ce71e6ba784ab48e19fe2fa3dc10216dcc4379ef114dd6c35cd24fb1432e53a/detection
+![Windows Prompt](screenshot.png)
 
 ## License
 

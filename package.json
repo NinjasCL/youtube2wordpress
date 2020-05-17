@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "scrape-youtube": "^0.2.0",
+    "wget-improved": "^3.2.0",
+    "wpapi": "^1.2.1"
+  }
+}
